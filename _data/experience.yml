@@ -1,0 +1,28 @@
+# Experience template
+- layout: left
+  company: Yapi Kredi Technology
+  link: 
+  job_title: Senior Software Engineer
+  dates: December 2016 - November 2018
+  quote:
+  description: | # this will include new lines to allow paragraphs
+    Engineer new technologies and frameworks for FinTech Ecosystem. Worked on mobile banking application both native Android and iOS clients, has eye-verify login option first in banking apps, and APIs. Then created micro services architectures with Spring Boot and Spring Cloud for core banking domains. Using TDD approach for unit/integration and cloud tests. Sticks with clean code principles.
+
+- layout: left
+  company: Garanti Technology
+  link: 
+  job_title: Senior Software Engineer
+  dates: July 2012 - December 2016
+  quote:
+  description: | # this will include new lines to allow paragraphs
+    Worked as a part of Web Technologies & Social Media Applications Department. Maintained bank's public site and made a mobile version of it. Created Twitter and Facebook web applications that bank's customers use and enrolled campaigns over Facebook and twitter. Also was a part of team that created iGaranti(now as GarantiOne) web, facebook and mobile applications. Developed notification based Google Glass application, first in Turkey, for iGaranti mobile application. Created new products and platforms for our customers to touch in so many ways. In every aspects of application development processes; designing the architecture, creating web and backend level.
+
+- layout: left
+  company: NETZ Sp. o.o.
+  link:
+  job_title: Software Engineer intern
+  dates: July 2011 - October 2011
+  quote:
+  description: | # this will include new lines to allow paragraphs
+    As an intern in Gdansk/Poland for 3 months, worked at CRM based company, Netz. 
+    First business experience was about java based desktop applications and three different Android applications about viewing CRM document and tracking customer-cargo locations.

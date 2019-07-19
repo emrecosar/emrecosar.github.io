@@ -1,0 +1,73 @@
+# Site
+repository: emrecosar/portfolio
+favicon: favicon.ico
+
+# Personal info
+name: Emre Cosar
+title: Software Engineer
+email: emrecosarr@gmail.com
+phone: 
+website:
+
+# Social links
+twitter_username: cosaremre
+github_username:  emrecosar
+dribbble_username:
+facebook_username:
+flickr_username:
+instagram_username: emrecosar
+linkedin_username: emrecosar
+xing_username:
+pinterest_username:
+youtube_username:
+googleplus_username:
+
+# About Section
+about_title:
+about_profile_image: img/profile-picture.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Interests in playing and creating better software solutions. 
+  Hands on experience about Spring Boot, React and Cloud platforms with the TDD approach using CI/CD. 
+  Started to career as full-stack web engineer and then mobile(Android / iOS and backend) engineer. Strong and eager about Java and JavaScript. Clean coder, open-source committer and enjoys fork&try projects! Loves to build software solutions that makes a difference and/or add value. To achieve that, especially pays attention to code quality and to the process (whether the right tools and frameworks are used in the project for optimal result). Has strong communication skills and he is goal oriented.
+
+  Cycling, Running and Swimming for a healthy life!
+
+# Experience Section
+# experience_title: Experience #(Use this to override about experience section title)
+
+# Education Section
+# education_title: Education #(Use this to override about education section title)
+
+# More Section
+# more_title: A Little More About Me #(Use this to override about more section title)
+more_content: | # this will include new lines to allow paragraphs
+  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+
+  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+
+# Footer
+footer_show_references: true
+
+# Build settings
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
+
+exclude : [
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/",
+  "lib/",
+  "scripts/",
+  "docker-compose.yml",
+  ]

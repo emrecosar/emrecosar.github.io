@@ -1,0 +1,8 @@
+# Education Template
+- layout: left
+  name: Ege University
+  dates: 2007 - 2012
+  qualification: Bachelor's in Computer Engineering
+  quote:
+  description: | # this will include new lines to allow paragraphs
+    Bachelor's thesis is ontology based issue tracking systems integration. Common and general ontology is designed and modelled for understanding different issue tracking systems and running in between. Also common tools and algorithms will be used for inferencing and generating graphical visualisation.
